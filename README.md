@@ -86,7 +86,7 @@ $ ng serve
 
   - ***First Page*** 
 
-  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-material/button_01.png" width= "640" >
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/button_01.png" width= "640" >
 
 
 #### Stop Local Server
